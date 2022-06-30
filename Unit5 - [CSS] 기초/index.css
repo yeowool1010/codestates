@@ -20,3 +20,9 @@ body {
   aside {
     background: #eee;
   }
+
+  h4 {
+    font-weight: 300;
+  color: blue;
+  text-shadow: 2px 2px 1px skyblue;
+  }
